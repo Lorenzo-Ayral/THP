@@ -1,0 +1,105 @@
+#G
+{
+    color: blue;
+}
+
+#e
+{
+  color: red;
+}
+
+#y
+{
+  color: yellow;
+}
+
+#l
+{
+  color: rgb(24, 196, 24);
+}
+
+h1
+{
+  font-size: 4.5em;
+  font-family: Product sans, Catull, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p
+{
+  text-align: right;
+}
+
+#b1
+{
+  text-align: center;
+}
+
+#f
+{
+  color: blue;
+}
+
+div
+{
+  text-align: center;
+}
+
+#barre
+{
+  text-align: center;
+}
+
+#GS
+{
+  background-color: rgb(190, 181, 181);
+  border: 1px solid gray; 
+  border-radius: 4px;
+  padding: 0.3%;
+}
+
+#FL
+{
+  background-color: rgb(190, 181, 181);
+  border: 1px solid gray; 
+  border-radius: 4px;
+  padding: 0.3%;
+}
+
+#Fr
+{
+  text-align: left;
+  background-color: gainsboro;
+}
+
+#bdp
+{
+  display: flex;
+  justify-content: space-between;
+  background-color: gainsboro;
+}
+
+#bl
+{
+  text-align: left;
+}
+
+#br
+{
+  text-align: right;
+}
+
+#barre
+{
+  justify-content: space-between;
+  border : 2px solid gainsboro;
+  border-radius: 4px;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+
+#footer
+{
+position: absolute;
+bottom: 0%;
+}
